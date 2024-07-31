@@ -1,1 +1,19 @@
 /* Ini CSS */
+
+nav{
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-icon {
+    border: 1px solid;
+}
+
+.nav-container {
+    display: flex;
+}
+
+.nav-item {
+    border: 1px solid;
+}
