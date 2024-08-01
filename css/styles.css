@@ -41,7 +41,7 @@ nav{
 }
 
 .main-banner-container {
-    height: 150px;
+    height:150px;
     width: 100%;
 }
 
@@ -53,14 +53,17 @@ nav{
 
 .banner-1 {
     background-image: url(assets\1.jpg)
+
 }
 
 .banner-2 {
     background-image: url(assets\2.jpg)
+
 }
 
 .banner-3 {
-    background-image: url(assets\3.jpg)
+    background-image: url(assets\3.png)
+
 }
 
 .item-icon {
